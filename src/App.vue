@@ -22,7 +22,6 @@ export default {
   name: "App",
   components: {
     Pikkaheader,
-    Pikkabody,
   },
   data() {
     return {
